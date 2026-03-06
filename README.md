@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pedro 👋
 
-<!--
-**pdrotomaz/pdrotomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-first developer focused on building automations, integrations and digital tools.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Interested in AI automation and digital products
+- Learning APIs, automation tools and workflow optimization
+- Building projects that simplify processes and improve productivity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- Python
+- JavaScript
+- APIs & Integrations
+- Automation tools
+- Git & GitHub
+
+## 📌 Current Focus
+Building automation projects and experimenting with AI-powered tools.
+
+## 📫 Contact
+- Email: pedrolimatomaz70@gmail.com
